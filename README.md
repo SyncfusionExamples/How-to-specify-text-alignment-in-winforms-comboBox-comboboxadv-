@@ -1,2 +1,2 @@
 # How-to-specify-text-alignment-in-winforms-comboBox-comboboxadv-
-This session describes about how to specify text alignment in winforms ComboBoxAdv control.
+This example demonstrates how to set the text alignment in the ComboBoxAdv control for Winforms.
