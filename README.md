@@ -1,5 +1,5 @@
 # How-to-specify-text-alignment-in-winforms-comboBox-comboboxadv-
-This example demonstrates how to set the text alignment in the ComboBoxAdv control for Winforms. 
+The Syncfusion ComboBoxAdv control provides an option to Align the text. The Text can be aligned by setting the TextAlign property.
 
 ## C#
     // To specify TextAlignment
