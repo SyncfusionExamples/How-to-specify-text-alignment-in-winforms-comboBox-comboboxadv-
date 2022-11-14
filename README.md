@@ -4,3 +4,5 @@ The Syncfusion ComboBoxAdv control provides an option to Align the text. The Tex
 ## C#
     // To specify TextAlignment
     Mytextbox.TextAlign = HorizontalAlignment.Center;
+
+![TextAlignment](ComboBoxTextAlign/Image/TextAlignment.png)
