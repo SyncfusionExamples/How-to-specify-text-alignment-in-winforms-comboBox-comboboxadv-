@@ -23,3 +23,7 @@ For more details, refer to the official Syncfusion Knowledge Base article: https
 Ideal for developers looking to:
 - Enhance the layout and readability of their WinForms applications
 - Maintain consistent UI alignment across controls.
+
+## Screenshot
+
+![Text Alignment in WinForms ComboBoxAdv](ComboBoxTextAlign/Image/TextAlignment.png)
